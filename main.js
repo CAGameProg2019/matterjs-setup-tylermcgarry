@@ -17,7 +17,7 @@ let render = Render.create({
 	
 });
 Engine.run(engine);
-Render.run(render);
+Render.run(render); 
 
 
 
